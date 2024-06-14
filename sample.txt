@@ -1,0 +1,6 @@
+API ref : https://www.themoviedb.org
+API key : a49743380aaa5b94886a30746fe7c08e
+GET : https://api.themoviedb.org/3/movie/now_playing?api_key=a49743380aaa5b94886a30746fe7c08e
+IMAGE : https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg
+Movie Details : https://api.themoviedb.org/3/movie/{movie_id}
+Search Movie : https://api.themoviedb.org/3/search/movie?query=SEARCH_DATA&api_key=a49743380aaa5b94886a30746fe7c08e
